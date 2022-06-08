@@ -1,2 +1,2 @@
-# ubiquitous-meme
+# ColorBall
 ColorBall game repo
